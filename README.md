@@ -155,7 +155,7 @@ f0712df65f3a        michelpietersbe_workspace    "/sbin/my_init"          4 minu
 
 In total we should have 6 containers up and running.
 <br>If we open up our browser and visit the url: ``localhost``
-<br>we dont see anything going on, and we get a error:  
+<br>we dont see anything going on, and we get an error:  
 <br>**HTTP ERROR 500!**
 
 
